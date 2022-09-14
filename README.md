@@ -11,7 +11,7 @@ The Fall Fest here on MYCAMPUS is going to be a hackathon, starting on October 2
 
 --------------------------------
 ## Official Registration
-- Before you register, read the full rules [here](). This is a hackathon for MYCAMPUS only, if you are not a member of the MYCAMPUS community, you may not participate in this hackathon.
+- Before you register, read the full rules [here](https://github.com/qiskit-community/fall-fest-22/blob/main/Qiskit%20Fall%20Fest%20Official%20Rules%20Template.docx). This is a hackathon for MYCAMPUS only, if you are not a member of the MYCAMPUS community, you may not participate in this hackathon.
 - To officially sign up, register using [this link](https://airtable.com/)
 
 
